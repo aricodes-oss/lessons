@@ -1,0 +1,1 @@
+The aim of this course is to teach you how to successfully navigate and survive a Linux shell environment. By the end of this course, you will have the foundational knowledge you need to feel just as home in a shell as you will with a graphical file browser.

@@ -1,0 +1,9 @@
+#+SETUPFILE: ../../org-minimal-theme.setup
+#+TITLE: Learning the Linux Shell
+
+* Outline
+#+INCLUDE: "./outline.org"
+* Introduction
+#+INCLUDE: "./introduction.org"
+* A History Lesson
+#+INCLUDE: "./history.org"
