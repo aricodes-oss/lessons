@@ -2,8 +2,14 @@
 #+TITLE: Learning the Linux Shell
 
 * Outline
-#+INCLUDE: "./outline.org"
-* Introduction
-#+INCLUDE: "./introduction.org"
-* A History Lesson
-#+INCLUDE: "./history.org"
+The aim of this course is to teach you how to successfully navigate and survive a Linux shell environment. By the end of this course, you will have the foundational knowledge you need to feel just as home in a shell as you will with a graphical file browser.
+
+** Table of Contents
+
+1. [[./introductions.org][Introductions and Definitions]]
+2. A History Lesson
+3. Anatomy of a Command
+4. Navigation
+5. File Manipulation and Permissions
+6. I/O Redirection
+7. Expansion

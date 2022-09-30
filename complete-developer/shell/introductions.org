@@ -1,0 +1,24 @@
+#+SETUPFILE: ../../org-minimal-theme.setup
+#+TITLE: Introductions and Definitions
+
+* Why should we care?
+A common viewpoint nowadays is that the shell (or terminal, or command line, or what have you) has become an antiquated piece of technology that belongs back in 1980s and 1990s - a time when computers were mainly used by universities, businesses, and some dedicated enthusiasts.
+
+Many are old enough to remember a time when your computer interface /was/ the shell. As personal computing exploded into popularity in the mainstream, many were introduced to computers for the first time through the usage of DOS. For them, this viewpoint is extremely understandable - the DOS shell is extremely limited in what it can do, it's clunky, and it just feels bad to use.
+
+POSIX shells, on the other hand, are substantially more powerful. This is due, at least in part, to several key differentiating factors:
+
+1. [[https://www.gnu.org/software/coreutils/][~coreutils~]] is a very complete toolkit that offers a lot of functionality with a simple interface
+2. POSIX shells are very /composable/ - meaning that you can create your own grammar and data pipelines from smaller, existing pieces
+3.
+
+
+#+NAME: test.py
+#+BEGIN_SRC python
+import os
+import sys
+
+sys.exit(1)
+print("Hello, world!")
+#+END_SRC
+* What is the shell?

@@ -4,4 +4,4 @@ clean:
 
 docs: clean
 	mkdir -p out
-	find . -type f -iname '*.org' -exec org-export html --infile {} \;
+	find . -type f -iname '*.org' -exec org-export html --config-file ./customizations.el --infile {} \;

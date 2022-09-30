@@ -1,2 +1,10 @@
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://orgminimal.tizi.moe/bundle.min.css"/>
-#+HTML_HEAD: <script src="http://orgminimal.tizi.moe/bundle.min.js" type="text/javascript" ></script>
+# #+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+# #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://orgminimal.tizi.moe/bundle.min.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://unpkg.com/spcss"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://assets.aricodes.net/prism/prism.css" />
+#+HTML_HEAD: <script src="https://assets.aricodes.net/prism/prism.js"></script>
+# #+HTML_HEAD: <script src="http://orgminimal.tizi.moe/bundle.min.js" type="text/javascript" ></script>
+# #+HTML_HEAD: <link rel="preconnect" href="https://fonts.googleapis.com">
+# #+HTML_HEAD: <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+# #+HTML_HEAD: <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+# #+HTML_HEAD: <style>p { font-family: Roboto, sans; }</style>
